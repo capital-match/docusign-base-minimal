@@ -1,5 +1,5 @@
-name: docusign-base
-synopsis: Low-level bindings to the DocuSign API
+name: docusign-base-mininal
+synopsis: Low-level bindings to the DocuSign API (only what is necessary for docusign-client)
 
 library:
   default-extensions:
